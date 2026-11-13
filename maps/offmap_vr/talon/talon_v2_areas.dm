@@ -50,6 +50,9 @@
 /area/talon_v2/hangar
 	name = "\improper Talon - Hangar"
 	icon_state = "red"
+/area/talon_v2/pod_hangar
+	name = "\improper Talon - Pod Hangar"
+	icon_state = "red"
 
 /area/talon_v2/engineering
 	name = "\improper Talon - Engineering"
@@ -80,34 +83,43 @@
 /area/talon_v2/anomaly_storage
 	name = "\improper Talon - Anomaly Storage"
 	icon_state = "gray"
-/area/talon_v2/unused
-	name = "\improper Talon - Unused Room"
+/area/talon_v2/gen_store
+	name = "\improper Talon - General Storage"
 	icon_state = "gray"
 
 /area/talon_v2/armory
 	name = "\improper Talon - Armory"
 	icon_state = "red"
+/area/talon_v2/eva_storage
+	name = "\improper Talon - EVA Storage"
+	icon_state = "red"
 /area/talon_v2/secure_storage
-	name = "\improper Talon - Secure Storage"
+	name = "\improper Talon - Cryogenic Storage"
+	icon_state = "gray"
+/area/talon_v2/ofd_ops
+	name = "\improper Talon - OFD Ops"
 	icon_state = "red"
 /area/talon_v2/bridge
 	name = "\improper Talon - Bridge"
 	icon_state = "blue"
 
 /area/talon_v2/crew_quarters/pilot_room
-	name = "\improper Talon - Pilot Cabin"
+	name = "\improper Talon - Pilot's Cabin"
 	icon_state = "gray"
 /area/talon_v2/crew_quarters/med_room
-	name = "\improper Talon - Doctor Cabin"
+	name = "\improper Talon - Doctor's Cabin"
 	icon_state = "green"
 /area/talon_v2/crew_quarters/eng_room
-	name = "\improper Talon - Engineer Cabin"
+	name = "\improper Talon - Engineer's Cabin"
 	icon_state = "yellow"
 /area/talon_v2/crew_quarters/sec_room
-	name = "\improper Talon - Guard Cabin"
+	name = "\improper Talon - Guard's Cabin"
 	icon_state = "red"
+/area/talon_v2/crew_quarters/mine_room
+	name = "\improper Talon - Miner's Cabin"
+	icon_state = "gray"
 /area/talon_v2/crew_quarters/cap_room
-	name = "\improper Talon - Captain Cabin"
+	name = "\improper Talon - Captain's Cabin"
 	icon_state = "blue"
 /area/talon_v2/crew_quarters/bar
 	name = "\improper Talon - Bar"
